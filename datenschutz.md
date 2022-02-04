@@ -4,7 +4,7 @@
 
 Die nachfolgende Datenschutzerklärung gilt für die Nutzung der Sammlung 2.0 App vom 4. 1. 2022 der JJG-Bots des Inda-Gymnasiums Aachen (INDA).
 
-Wir haben diese Datenschutzerklärung (Fassung 30.11.2019-311132303) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/67 9zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Rechte und Entscheidungsmöglichkeiten Sie als Nutzer dieser App haben.
+Wir haben diese Datenschutzerklärung (Fassung 04.02.2022-311132303) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/67 9zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Rechte und Entscheidungsmöglichkeiten Sie als Nutzer dieser App haben.
 
 Sie erhalten Hinweise, wie Sie die verantwortliche Stelle und die Datenschutzbeauftragte kontaktieren können und welche Rechte Sie in Bezug auf die Verarbeitung der personenbezogenen Daten haben.
 
