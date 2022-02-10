@@ -156,5 +156,6 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 
 ## 11. Bestehen einer automatisierten Entscheidungsfindung
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
+
 Developed by the specialists for LegalTech at Willing & Able that also developed the system for gdpr impact assessment. The legal texts contained in our privacy policy generator have been provided and published by Prof. Dr. h.c. Heiko Jonny Maniero from the German Association for Data Protection and Christian Solmecke from WBS law.
 
